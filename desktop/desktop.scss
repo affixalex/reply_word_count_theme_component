@@ -1,0 +1,16 @@
+.topic-list .reply_word_count {
+  width: 70px;
+}
+
+#suggested-topics .topic-list {
+  .topic-list-header {
+    display: none;
+  }
+  .reply_word_count.topic-list-data {
+    width: 70px;
+  }
+}
+
+.topic-list-item .reply_word_count a {
+  color: var(--primary-medium);
+}

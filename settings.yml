@@ -1,0 +1,5 @@
+show_reply_word_count:
+  type: bool
+  default: false
+  description:
+    en: "Show the word count of all topic replies not by OP of topic"
